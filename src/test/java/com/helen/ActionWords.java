@@ -16,6 +16,6 @@ public class ActionWords {
 
     public void verifyResult (Integer actionResult){
         expectedResult = actionResult;
-        Assert.assertTrue(actionResult == expectedResult);
+        Assert.assertTrue(actualResult == expectedResult);
     }
 }
