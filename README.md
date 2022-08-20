@@ -16,5 +16,8 @@ Install Jenkins locally and install suggested plugins
 Install Maven and Xray plugins and configure them.
 And then run from Jenkins will update the result in Jira-Xray.
 
+Please set HOME_JAVA to JDK11, so that Jenkins could run perfect.
+Do not specify any JDK version in pom.xml, but default JDK11 will work fine for maven project.
+
 
 
