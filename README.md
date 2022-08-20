@@ -12,7 +12,6 @@ Then automate it in Jira.
 Run it successfully
 Import test result successfully.
 
-Setup Jenkins to run automation successfully using below steps.
 Install Jenkins locally and install suggested plugins
 Install Maven and Xray plugins and configure them.
 And then run from Jenkins will update the result in Jira-Xray.
